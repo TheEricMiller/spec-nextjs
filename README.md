@@ -27,8 +27,11 @@ To learn more please refer to the following global `/specs/`:
 
 or individual features can be found here:
 
-* [**user-authentication/**](specs/user-authentication/requirements.md)       # Login, signup, password reset
-
+| Feature  | Description |
+| -------- | ----------- |
+|   [**user-authentication/**](specs/user-authentication/requirements.md)   |   # Login, signup, password reset   |
+|   X   |   X   |
+|   X   |   X   |
 
 # Examples TODOtree
 - FIXME
