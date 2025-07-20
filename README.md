@@ -2,6 +2,23 @@
 
 ***{Insert description of what this app does}***
 
+
+
+# Getting Started
+
+## Local Dev Installation & Deployment
+* TBD
+
+## Staging Deployment
+* TBD
+
+## Production Deployment
+* TBD
+
+
+
+# Diving into the App
+
 To learn more please refer to the following global `/specs/`:
 
 * [**requirements.md**](specs/requirements.md)
@@ -13,8 +30,14 @@ or individual features can be found here:
 * [**user-authentication/**](specs/user-authentication/requirements.md)       # Login, signup, password reset
 
 
-## Local Installation & Deployment
-* TBD
+# Examples TODOtree
+- FIXME
+- BUG
+- TODO
 
-## Live Deployment
-* TBD
+// TODO multiline example
+//  second line
+//  third line
+
+- [ ] Do something
+- [x] Something I've done
